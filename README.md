@@ -44,7 +44,7 @@ Electronic components are available in different packages, such as through-hole 
 
 
 # EXPECTED OUTPUT:
-```
+
 <img width="980" height="757" alt="image" src="https://github.com/user-attachments/assets/1da0d341-8082-42b7-b4e6-d1ae58825652" />
 <img width="829" height="750" alt="image" src="https://github.com/user-attachments/assets/33dc5aaa-3fca-497f-874e-04894a912205" />
 <img width="860" height="748" alt="image" src="https://github.com/user-attachments/assets/7321bba7-de76-45ff-a8bb-0e0a923a344b" />
@@ -52,7 +52,6 @@ Electronic components are available in different packages, such as through-hole 
 <img width="1212" height="743" alt="image" src="https://github.com/user-attachments/assets/9a7a51cb-8bae-417e-b5c6-a05f135d710d" />
 <img width="1212" height="743" alt="image" src="https://github.com/user-attachments/assets/13aeb116-372d-4379-b33a-a1a02e85c37e" />
 
-```
 # RESULT:
 Thus, the basic electronic components such as resistor, capacitor, diode, transistor, and inductor were studied and their functions and specifications were understood.
 
